@@ -1,2 +1,2 @@
-# P6_SnowTrick
+# P6_SnowTricke
 P6 /formation OpenClassrooms
